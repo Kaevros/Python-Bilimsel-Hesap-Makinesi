@@ -1,0 +1,9 @@
+# Python Bilimsel Hesap Makinesi Gereksinimleri
+# Python 3.6+ gereklidir
+# Tkinter standart kütüphanede gelir (çoğu Python kurulumunda bulunur)
+
+# Not: Eğer tkinter kurulu değilse:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# macOS: Varsayılan olarak kurulu
+# Windows: Varsayılan olarak kurulu
